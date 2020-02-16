@@ -1,1 +1,3 @@
-# microservice demo configuration files
+# Microservice configuration demo files
+
+Contains the centralized configuration files.
